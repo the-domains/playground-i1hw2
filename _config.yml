@@ -1,0 +1,14 @@
+layout_spectrum: 0.3216492629144341
+typography_spectrum: 0.2992831636220217
+color:
+  brandStrength: 0.9379438790492713
+  lightness: 0.18569632549770176
+  saturation: 0.1442531435750425
+  rhythmicContrast: 0.7223220050800592
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+name: Playground
